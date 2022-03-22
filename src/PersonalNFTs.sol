@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: UNLICENSED
+// SPDX-License-Identifier: WTFPL
 pragma solidity >=0.8.10;
 
 import "./Ownable.sol";
